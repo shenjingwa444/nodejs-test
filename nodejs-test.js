@@ -37,7 +37,7 @@ var server = http.createServer(function (request, response) {
           <link rel="stylesheet" href="/css">
         </head>
         <body>
-          <h1 class="h1">欢迎来到这个网站</h1>
+          <h1 class="h1">欢迎来到个人网站</h1>
           <button class="b1"><a href="/rainbow">彩虹</a></button>
           <button class="b2"><a href="/heart">跳动的心</a></button>
           <script src="/js"></script> 
